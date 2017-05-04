@@ -1,3 +1,5 @@
+SAM learned from pluralsight : https://app.pluralsight.com/player?course=aws-developer-getting-started&author=ryan-lewis&name=aws-developer-getting-started-m3&clip=5&mode=live 
+
 ## Demo Project for AWS Developer: Getting Started
 
 This repository contains the demo project for the [AWS Developer: Getting Started course on Pluralsight.com](http://www.pluralsight.com/courses/aws-developer-getting-started).
